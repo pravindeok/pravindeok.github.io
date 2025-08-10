@@ -1,23 +1,5 @@
 # pravindeok.github.io
 Interactive Resume - Pravin Kumar
-This is a single-page interactive web application built to showcase Pravin Kumar's resume in an engaging and dynamic format. Unlike a traditional static document, this application allows for easy exploration of his career timeline, technical skills, and key projects.
-
-Overview
-The application is a single HTML file that uses modern web technologies to create a responsive and intuitive user experience. It's designed to be easily shared and viewed on any device, from desktop to mobile.
-
-Features
-Interactive Navigation: A fixed header with smooth-scrolling links to different sections of the resume.
-
-Career Timeline: A visually organized and interactive timeline of Pravin's professional experience. Clicking on each job entry reveals more detailed responsibilities.
-
-Skills Visualization: A horizontal bar chart, powered by Chart.js, that graphically represents core technical and leadership competencies.
-
-Project Showcase: A clean card-based layout for highlighting major projects, complete with descriptions and relevant technology tags.
-
-Responsive Design: The layout is built with Tailwind CSS to ensure a great viewing experience on all screen sizes.
-
-How to Use
-To use this interactive resume, simply save the code below as a file named index.html and open it in any web browser. No external server or setup is required.
 
 Code
 <!DOCTYPE html>
@@ -149,11 +131,11 @@ Code
             <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-6 text-lg">
                 <div class="flex items-center space-x-2">
                     <span class="text-teal-500">●</span>
-                    <span>+1 437-855-1447</span>
+                    <span>+1 437-xxx-xxx</span>
                 </div>
                 <div class="flex items-center space-x-2">
                     <span class="text-teal-500">●</span>
-                    <span>pravin.deo@gmail.com</span>
+                    <span>x@gmail.com</span>
                 </div>
                 <div class="flex items-center space-x-2">
                     <span class="text-teal-500">●</span>
