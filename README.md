@@ -1,5 +1,4 @@
-# pravindeok.github.io
-Interactive Resume - Pravin Kumar
+# Interactive Resume - Pravin Kumar
 
 Code
 <!DOCTYPE html>
